@@ -315,8 +315,8 @@
               {
                   "name": "Georgia",
                   "state": "Georgia",
-                  "abbreviation": "UGA", "GT",
-                  "rival": ["FL"],
+                  "abbreviation": "UGA",
+                  "rival": ["FL", "GT"],
                   "rivalryNames": {
                   "FL": "World's Largest Cocktail Party"
                   },
@@ -388,6 +388,7 @@
                   "LSU": "Sabine Showdown"
                   },
                   "prestige": "85",
+                  "hexColor": "#500000"
               },
               {
                   "name": "Kansas",
