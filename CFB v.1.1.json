@@ -361,8 +361,8 @@
               {
                   "name": "Nebraska",
                   "state": "Nebraska",
-                  "abbreviation": "UNL",
-                  "rival": ["IOWA"],
+                  "abbreviation": "NEB",
+                  "rival": [],
                   "rivalryNames": {},
                   "prestige": "85",
                   "hexColor": "#E41C38"
@@ -997,7 +997,7 @@
                 "name": "Tulane",
                 "state": "Louisiana",
                 "abbreviation": "TUL",
-                "rival": ["USF"],
+                "rival": [],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#006747"
