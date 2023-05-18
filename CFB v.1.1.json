@@ -81,7 +81,7 @@
             "name": "LSU",
             "state": "Louisiana",
             "abbreviation": "LSU",
-            "rival": [ARK],
+            "rival": ["ARK"],
             "rivalryNames": {
             "ARK": "Golden Boot"    
             },
